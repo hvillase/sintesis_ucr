@@ -31,7 +31,7 @@ Sustractiva: filtrado de ruido.
 AM: amplitud modulada.   
 FM: frecuencia modulada.   
 Modulación de anillo.  
-Granular  
+Granular.  
 Modelado físico: [Karlplus-Strong](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis).  
 Wave Table.
 
@@ -63,4 +63,8 @@ Analógica: interfaz del sintetizador o parcheo.
 ## Investigación artística en tecnología musical
 
 ## Colectividad
-
+Tocar juntos/as. Con sincronía o reloj, sin sincronía.  
+SC: [LinkClock](https://doc.sccode.org/Classes/LinkClock.html)  
+Dejalo sonar.  
+### C.C.A.V.U.L.
+![CCAVUL](ccavul1.jpg "ccavul")

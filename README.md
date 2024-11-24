@@ -4,12 +4,12 @@
 Dr. Hernani Villaseñor Ramírez  
 UAM, Lerma  
 
-## Introducción
-[Música concreta](https://es.wikipedia.org/wiki/M%C3%BAsica_concreta) en la radio de Francia (1948). Pierre Schaefer  
-[Música electrónica] en la Radio de Colonia (https://en.wikipedia.org/wiki/Studio_for_Electronic_Music_(WDR)) (1951). G. Michael Konig  
-[Síntesis sonora](). Max Matthews MUSIC  
+## 1 Introducción
+[Música concreta](https://es.wikipedia.org/wiki/M%C3%BAsica_concreta) en la radio de Francia (1948). Pierre Schaefer.  
+[Música electrónica](https://en.wikipedia.org/wiki/Studio_for_Electronic_Music_(WDR)) en la Radio de Colonia (1951). G. Michael Konig.  
+Síntesis sonora con [MUSIC-N](https://en.wikipedia.org/wiki/MUSIC-N)(1957) desarrollado en los Laboratrios Bell por Max Mathews.    
 
-## El lenguaje de la música electrónica
+## 2 El lenguaje de la música electrónica
 
 ### Frecuencia, amplitud y envolventes
 Hz (hertz) o cíclos por segundo (cps).  
@@ -32,16 +32,25 @@ Sintetizadores virtuales. [VCV Rack](https://vcvrack.com/)
 Analógica: interfaz del sintetizador o parcheo.  
 
 ## Software visual
-Processing  
+[Processing]()  
 [p5](https://p5js.org/es/)  
 
-## patrones
-## sonido controlado por código
-## software de edición
-audacity, ardour, reaper  
+## Patrones (patterns)
+
+## Sonido controlado por código
+
+## Software de edición
+[Audacity]()  
+[Ardour]()  
+[Reaper]()  
+
 ## SonoTexto, SampleTexto
+
 ## CMM y live coding
+
 ## UAM Lerma y arte digital
+
 ## Investigación artística en tecnología musical
+
 ## Colectividad
 

@@ -12,19 +12,23 @@ UAM, Lerma
 ## Sintetizador
 
 ## Síntesis
-Escribir código fuente. SuperCollider  
-Conectar cables o parcheo. PureData  
-Sintetizadores virtuales. [vcv rack](https://vcvrack.com/)  
-Analógica: interfaz del sintetizador o parcheo.
+Escribir código fuente. [SuperCollider](https://supercollider.github.io/)  
+Conectar cables o parcheo. [PureData](https://puredata.info/)  
+Sintetizadores virtuales. [VCV Rack](https://vcvrack.com/)  
+Analógica: interfaz del sintetizador o parcheo.  
+
 ## Osciladores
 Sine, Saw, Pulse, Tri, Noise.
+
 ## Frecuencia, amplitud y envolventes
-CPS  
-dB  
-Amplitud en el tiempo: ASDR
+Hz (hertz) o cíclos por segundo (cps).  
+dB  (decibles), de presión sonora (dbSPL) en ámbito acústico y de escala completa en ámbito digital (dbFS).  
+Amplitud en el tiempo: Ataque, Sostenimiento, Decaimiento, Relajamiento (ASDR).
+
 ## Software visual
-supercollider, pure data,   
-hydra, [p5](https://p5js.org/es/), processing  
+Processing  
+[p5](https://p5js.org/es/)  
+
 ## patrones
 ## sonido controlado por código
 ## software de edición

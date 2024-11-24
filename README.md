@@ -1,13 +1,27 @@
 # Programación sonora en la creación musical
-## Charla 25 de noviembre 2024 
-## Universidad de Costa Rica
+## 25 de noviembre 2024 
+## Universidad de Costa Rica, Escuela de Artes Musicales
 Dr. Hernani Villaseñor Ramírez  
 UAM, Lerma  
 
 ## Introducción
-[Música electrónica] en la radio de Colonia (). G. Michael Konig  
-[Música concreta](https://es.wikipedia.org/wiki/M%C3%BAsica_concreta) en la radio de Francia (1948). Pierre Schaefer    
-[Síntesis sonora](). Max Matthews MUSIC
+[Música concreta](https://es.wikipedia.org/wiki/M%C3%BAsica_concreta) en la radio de Francia (1948). Pierre Schaefer  
+[Música electrónica] en la Radio de Colonia (https://en.wikipedia.org/wiki/Studio_for_Electronic_Music_(WDR)) (1951). G. Michael Konig  
+[Síntesis sonora](). Max Matthews MUSIC  
+
+## El lenguaje de la música electrónica
+
+### Frecuencia, amplitud y envolventes
+Hz (hertz) o cíclos por segundo (cps).  
+dB  (decibles), de presión sonora (dbSPL) en ámbito acústico y de escala completa en ámbito digital (dbFS).  
+Amplitud en el tiempo: Ataque, Sostenimiento, Decaimiento, Relajamiento (ASDR).
+
+### Osciladores
+Sine, Saw, Pulse, Tri, Noise.
+
+### Acetato y Cinta: grabación, edición y reprodicción de sonido
+Acetato: surcos impresos en acetato que representan forma de onda del sonido.  
+Cinta: cinta plástica con partículas magnéticas para registrar sonido mediante electromagnetismo.
 
 ## Sintetizador
 
@@ -16,14 +30,6 @@ Escribir código fuente. [SuperCollider](https://supercollider.github.io/)
 Conectar cables o parcheo. [PureData](https://puredata.info/)  
 Sintetizadores virtuales. [VCV Rack](https://vcvrack.com/)  
 Analógica: interfaz del sintetizador o parcheo.  
-
-## Osciladores
-Sine, Saw, Pulse, Tri, Noise.
-
-## Frecuencia, amplitud y envolventes
-Hz (hertz) o cíclos por segundo (cps).  
-dB  (decibles), de presión sonora (dbSPL) en ámbito acústico y de escala completa en ámbito digital (dbFS).  
-Amplitud en el tiempo: Ataque, Sostenimiento, Decaimiento, Relajamiento (ASDR).
 
 ## Software visual
 Processing  

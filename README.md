@@ -1,8 +1,15 @@
-# sintesis_ucr
+# Programación sonora en la creación musical
 ## Charla 25 de noviembre 2024 
-# Universidad de Costa Rica
+## Universidad de Costa Rica
 Dr. Hernani Villaseñor Ramírez  
 UAM, Lerma  
+
+## Introducción
+[Música electrónica] en la radio de Colonia (). G. Michael Konig  
+[Música concreta](https://es.wikipedia.org/wiki/M%C3%BAsica_concreta) en la radio de Francia (1948). Pierre Schaefer    
+[Síntesis sonora](). Max Matthews MUSIC
+
+## Sintetizador
 
 ## Síntesis
 Escribir código fuente. SuperCollider  

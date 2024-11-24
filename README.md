@@ -1,15 +1,22 @@
 # sintesis_ucr
-## Charla 25 de noviembre 2024 Universidad de Costa Rica
+## Charla 25 de noviembre 2024 
+# Universidad de Costa Rica
+Dr. Hernani Villaseñor Ramírez  
+UAM, Lerma  
 
 ## Síntesis
-código,  
-patch,  
-virtual,  
-analógica: interfaz del sintetizador o parcheo.
+Escribir código fuente. SuperCollider  
+Conectar cables o parcheo. PureData  
+Sintetizadores virtuales. [vcv rack](https://vcvrack.com/)  
+Analógica: interfaz del sintetizador o parcheo.
 ## Osciladores
-## frecuancia, amplitud y envolventes
-## Software
-supercollider, pure data, [vcv rack](https://vcvrack.com/)  
+Sine, Saw, Pulse, Tri, Noise.
+## Frecuencia, amplitud y envolventes
+CPS  
+dB  
+Amplitud en el tiempo: ASDR
+## Software visual
+supercollider, pure data,   
 hydra, [p5](https://p5js.org/es/), processing  
 ## patrones
 ## sonido controlado por código

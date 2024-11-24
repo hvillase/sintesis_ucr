@@ -5,9 +5,9 @@ Dr. Hernani Villaseñor Ramírez
 UAM, Lerma  
 
 ## 1 Introducción
-[Música concreta](https://es.wikipedia.org/wiki/M%C3%BAsica_concreta) en la radio de Francia (1948). Pierre Schaefer.  
-[Música electrónica](https://en.wikipedia.org/wiki/Studio_for_Electronic_Music_(WDR)) en la Radio de Colonia (1951). G. Michael Konig.  
-Síntesis sonora con [MUSIC-N](https://en.wikipedia.org/wiki/MUSIC-N)(1957) desarrollado en los Laboratrios Bell por Max Mathews.    
+[Música concreta](https://es.wikipedia.org/wiki/M%C3%BAsica_concreta) en la radio de Francia (1948).  
+[Música electrónica](https://en.wikipedia.org/wiki/Studio_for_Electronic_Music_(WDR)) en la Radio de Colonia (1951).    
+Síntesis sonora con [MUSIC-N](https://en.wikipedia.org/wiki/MUSIC-N) (1957) desarrollado en los Laboratrios Bell por Max Mathews.    
 
 ## 2 El lenguaje de la música electrónica
 
@@ -25,7 +25,17 @@ Cinta: cinta plástica con partículas magnéticas para registrar sonido mediant
 
 ## Sintetizador
 
-## Síntesis
+## El lenguaje de la síntesis
+Aditiva: suma de ondas sinuidales.
+Sustractiva: filtrado de ruido.
+AM: amplitud modulada.   
+FM: frecuencia modulada.   
+Modulación de anillo.  
+Granular  
+Modelado físico: [Karlplus-Strong](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis).  
+Wave Table.
+
+## Software sonoro
 Escribir código fuente. [SuperCollider](https://supercollider.github.io/)  
 Conectar cables o parcheo. [PureData](https://puredata.info/)  
 Sintetizadores virtuales. [VCV Rack](https://vcvrack.com/)  

@@ -25,7 +25,10 @@ Amplitud en el tiempo: Ataque, Sostenimiento, Decaimiento, Relajamiento (ASDR).
 Sine, Saw, Pulse, Tri, Noise.  
 ```
 {SinOsc.ar(440, 0, 1)!2}.play
-Saw
+{LFTri.ar(440, 0, 1)!2}.play
+{Saw.ar(440, 1)!2}.play
+{Pulse.ar(440, 0, 1)!2}.play
+{WhiteNoise.ar(440, 0, 1)!2}.play
 ```
 
 ### Tipos de síntesis
@@ -57,8 +60,9 @@ Implementación de rutinas y patrones a muestras de sonido.
 ## 3 Colectividad
 Tocar juntos/as. Con sincronía o reloj, sin sincronía.  
 SC: [LinkClock](https://doc.sccode.org/Classes/LinkClock.html)  
-Dejalo sonar.  
+Déjalo sonar.  
 
 ### C.C.A.V.U.L.
+Colectivo de Creación AudioVisual de la UAM Lerma  
 ![CCAVUL](ccavul1.jpg "ccavul")  
-[ccavul](https://hvillase.github.io/ccavul/)  
+[c.c.a.v.u.l.](https://hvillase.github.io/ccavul/)  

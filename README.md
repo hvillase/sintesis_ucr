@@ -9,7 +9,7 @@ UAM, Lerma
 [Música electrónica](https://en.wikipedia.org/wiki/Studio_for_Electronic_Music_(WDR)) en la Radio de Colonia (1951).    
 Síntesis sonora con [MUSIC-N](https://en.wikipedia.org/wiki/MUSIC-N) (1957) desarrollado en los Laboratrios Bell por Max Mathews.    
 
-## 2 El lenguaje de la música electrónica
+## 2 El lenguaje de la síntesis
 
 ### Frecuencia, amplitud y envolventes
 Hz (hertz) o cíclos por segundo (cps).  
@@ -17,15 +17,9 @@ dB  (decibles), de presión sonora (dbSPL) en ámbito acústico y de escala comp
 Amplitud en el tiempo: Ataque, Sostenimiento, Decaimiento, Relajamiento (ASDR).
 
 ### Osciladores
-Sine, Saw, Pulse, Tri, Noise.
+Sine, Saw, Pulse, Tri, Noise.  
 
-### Acetato y Cinta: grabación, edición y reprodicción de sonido
-Acetato: surcos impresos en acetato que representan forma de onda del sonido.  
-Cinta: cinta plástica con partículas magnéticas para registrar sonido mediante electromagnetismo.
-
-## Sintetizador
-
-## El lenguaje de la síntesis
+## Tipos de síntesis
 Aditiva: suma de ondas sinuidales.  
 Sustractiva: filtrado de ruido.  
 AM: amplitud modulada.  
@@ -48,13 +42,12 @@ Pseq([1, 2, 3, 4], inf)
 ```
 
 ## Sonido controlado por código
+Implementación de rutinas y patrones a muestras de sonido.
 
 ## Software de edición
-[Audacity]()  
-[Ardour]()  
-[Reaper]()  
-
-## Investigación artística en tecnología musical
+[Audacity](https://www.audacityteam.org/)  
+[Ardour](https://ardour.org/)  
+[Reaper](https://www.reaper.fm/)  
 
 ## Colectividad
 Tocar juntos/as. Con sincronía o reloj, sin sincronía.  
@@ -64,5 +57,3 @@ Dejalo sonar.
 ### C.C.A.V.U.L.
 ![CCAVUL](ccavul1.jpg "ccavul")  
 [ccavul](https://hvillase.github.io/ccavul/)  
-
-## Software visual

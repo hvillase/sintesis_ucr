@@ -40,6 +40,7 @@ Modulación de anillo.
 Granular.  
 Modelado físico: [Karlplus-Strong](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis).  
 Wave Table.  
+[Ejemplos](https://github.com/hvillase/taller-tec/tree/main/ejemplos) en SC y Pd.  
 
 ## Patrones (patterns)
 Cíclos en los que se desarrollan las rutinas computacionales en el tiempo.  
@@ -65,4 +66,4 @@ Déjalo sonar.
 ### C.C.A.V.U.L.
 Colectivo de Creación AudioVisual de la UAM Lerma  
 ![CCAVUL](ccavul1.jpg "ccavul")  
-[c.c.a.v.u.l.](https://hvillase.github.io/ccavul/) <- link
+[c.c.a.v.u.l.](https://hvillase.github.io/ccavul/)

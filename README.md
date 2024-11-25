@@ -38,11 +38,7 @@ Wave Table.
 ## Software sonoro
 Escribir código fuente. [SuperCollider](https://supercollider.github.io/)  
 Conectar cables o parcheo. [PureData](https://puredata.info/)  
-Sintetizadores virtuales. [VCV Rack](https://vcvrack.com/)  
-
-## Software visual
-[Processing](https://processing.org/)    
-[p5](https://p5js.org/es/)  
+Sintetizadores virtuales. [VCV Rack](https://vcvrack.com/)   
 
 ## Patrones (patterns)
 Cíclos en los que se desarrollan las rutinas computacionales en el tiempo.  
@@ -58,18 +54,15 @@ Pseq([1, 2, 3, 4], inf)
 [Ardour]()  
 [Reaper]()  
 
-## SonoTexto, SampleTexto
-
-## CMM y live coding
-
-## UAM Lerma y arte digital
-
 ## Investigación artística en tecnología musical
 
 ## Colectividad
 Tocar juntos/as. Con sincronía o reloj, sin sincronía.  
 SC: [LinkClock](https://doc.sccode.org/Classes/LinkClock.html)  
 Dejalo sonar.  
+
 ### C.C.A.V.U.L.
 ![CCAVUL](ccavul1.jpg "ccavul")  
 [ccavul](https://hvillase.github.io/ccavul/)  
+
+## Software visual

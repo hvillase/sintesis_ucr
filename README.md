@@ -7,18 +7,18 @@ UAM, Lerma
 ## 1 Introducción
 [Música concreta](https://es.wikipedia.org/wiki/M%C3%BAsica_concreta) en la radio de Francia (1948).  
 [Música electrónica](https://en.wikipedia.org/wiki/Studio_for_Electronic_Music_(WDR)) en la Radio de Colonia (1951).    
-Síntesis sonora con [MUSIC-N](https://en.wikipedia.org/wiki/MUSIC-N) (1957) desarrollado en los Laboratrios Bell por Max Mathews.    
+Síntesis sonora en los Laboratorios Bell [MUSIC-N](https://en.wikipedia.org/wiki/MUSIC-N) (1957).  
 
 ## 2 El lenguaje de la síntesis
 
 ### Software
-Escribir código fuente. [SuperCollider](https://supercollider.github.io/)  
-Conectar cables o parcheo. [PureData](https://puredata.info/)  
-Sintetizadores virtuales. [VCV Rack](https://vcvrack.com/)   
+Escribir código fuente: [SuperCollider](https://supercollider.github.io/).  
+Conectar cables o parcheo: [PureData](https://puredata.info/).  
+Sintetizadores virtuales: [VCV Rack](https://vcvrack.com/).  
 
 ### Frecuencia, amplitud y envolventes
 Hz (hertz) o cíclos por segundo (cps).  
-dB  (decibles), de presión sonora (dbSPL) en ámbito acústico y de escala completa en ámbito digital (dbFS).  
+dB  o decibles de presión sonora (dbSPL) en ámbito acústico y de escala completa en ámbito digital (dbFS).  
 Amplitud en el tiempo: Ataque, Sostenimiento, Decaimiento, Relajamiento (ASDR).
 
 ### Osciladores
@@ -30,6 +30,12 @@ Sine, Saw, Pulse, Tri, Noise.
 {Pulse.ar(440, 0, 1)!2}.play;
 {WhiteNoise.ar(440, 0, 1)!2}.play;
 ```
+### Filtros
+HPF o High Pass Filter.  
+LPF o Low Pass Filter.  
+BPF Band Pass Filter.  
+Notch.  
+![BPF](bpf.png "bpf")  
 
 ### Tipos de síntesis
 Aditiva: suma de ondas sinuidales.  

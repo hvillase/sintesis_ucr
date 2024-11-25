@@ -24,11 +24,11 @@ Amplitud en el tiempo: Ataque, Sostenimiento, Decaimiento, Relajamiento (ASDR).
 ### Osciladores
 Sine, Saw, Pulse, Tri, Noise.  
 ```
-{SinOsc.ar(440, 0, 1)!2}.play
-{LFTri.ar(440, 0, 1)!2}.play
-{Saw.ar(440, 1)!2}.play
-{Pulse.ar(440, 0, 1)!2}.play
-{WhiteNoise.ar(440, 0, 1)!2}.play
+{SinOsc.ar(440, 0, 1)!2}.play;
+{LFTri.ar(440, 0, 1)!2}.play;
+{Saw.ar(440, 1)!2}.play;
+{Pulse.ar(440, 0, 1)!2}.play;
+{WhiteNoise.ar(440, 0, 1)!2}.play;
 ```
 
 ### Tipos de síntesis
@@ -65,4 +65,4 @@ Déjalo sonar.
 ### C.C.A.V.U.L.
 Colectivo de Creación AudioVisual de la UAM Lerma  
 ![CCAVUL](ccavul1.jpg "ccavul")  
-[c.c.a.v.u.l.](https://hvillase.github.io/ccavul/)  
+[c.c.a.v.u.l.](https://hvillase.github.io/ccavul/) <- link

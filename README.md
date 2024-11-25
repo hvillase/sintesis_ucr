@@ -57,7 +57,7 @@ Pseq([1, 2, 3, 4], inf)
 ```
 
 ## Sonido controlado por código
-Implementación de rutinas y patrones a muestras de sonido.
+Implementación de rutinas y patrones a muestras de sonido. Uso de Buffer y [PlayBuf](https://doc.sccode.org/Classes/PlayBuf.html).  
 
 ## Software de edición
 [Audacity](https://www.audacityteam.org/)  

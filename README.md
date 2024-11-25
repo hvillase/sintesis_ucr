@@ -26,26 +26,30 @@ Cinta: cinta plástica con partículas magnéticas para registrar sonido mediant
 ## Sintetizador
 
 ## El lenguaje de la síntesis
-Aditiva: suma de ondas sinuidales.
-Sustractiva: filtrado de ruido.
-AM: amplitud modulada.   
+Aditiva: suma de ondas sinuidales.  
+Sustractiva: filtrado de ruido.  
+AM: amplitud modulada.  
 FM: frecuencia modulada.   
-Modulación de anillo.  
+Modulación de anillo. 
 Granular.  
 Modelado físico: [Karlplus-Strong](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis).  
-Wave Table.
+Wave Table.  
 
 ## Software sonoro
 Escribir código fuente. [SuperCollider](https://supercollider.github.io/)  
 Conectar cables o parcheo. [PureData](https://puredata.info/)  
 Sintetizadores virtuales. [VCV Rack](https://vcvrack.com/)  
-Analógica: interfaz del sintetizador o parcheo.  
 
 ## Software visual
-[Processing]()  
+[Processing](https://processing.org/)    
 [p5](https://p5js.org/es/)  
 
 ## Patrones (patterns)
+Cíclos en los que se desarrollan las rutinas computacionales en el tiempo.  
+Por ejemplo, un patrón de secuencia en SuperCollider que cuenta cuatro índices de manera infinita: 
+```
+Pseq([1, 2, 3, 4], inf)
+```
 
 ## Sonido controlado por código
 

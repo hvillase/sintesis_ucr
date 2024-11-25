@@ -11,6 +11,11 @@ Síntesis sonora con [MUSIC-N](https://en.wikipedia.org/wiki/MUSIC-N) (1957) des
 
 ## 2 El lenguaje de la síntesis
 
+### Software
+Escribir código fuente. [SuperCollider](https://supercollider.github.io/)  
+Conectar cables o parcheo. [PureData](https://puredata.info/)  
+Sintetizadores virtuales. [VCV Rack](https://vcvrack.com/)   
+
 ### Frecuencia, amplitud y envolventes
 Hz (hertz) o cíclos por segundo (cps).  
 dB  (decibles), de presión sonora (dbSPL) en ámbito acústico y de escala completa en ámbito digital (dbFS).  
@@ -18,8 +23,12 @@ Amplitud en el tiempo: Ataque, Sostenimiento, Decaimiento, Relajamiento (ASDR).
 
 ### Osciladores
 Sine, Saw, Pulse, Tri, Noise.  
+```
+{SinOsc.ar(440, 0, 1)!2}.play
+Saw
+```
 
-## Tipos de síntesis
+### Tipos de síntesis
 Aditiva: suma de ondas sinuidales.  
 Sustractiva: filtrado de ruido.  
 AM: amplitud modulada.  
@@ -29,14 +38,10 @@ Granular.
 Modelado físico: [Karlplus-Strong](https://en.wikipedia.org/wiki/Karplus%E2%80%93Strong_string_synthesis).  
 Wave Table.  
 
-## Software sonoro
-Escribir código fuente. [SuperCollider](https://supercollider.github.io/)  
-Conectar cables o parcheo. [PureData](https://puredata.info/)  
-Sintetizadores virtuales. [VCV Rack](https://vcvrack.com/)   
-
 ## Patrones (patterns)
 Cíclos en los que se desarrollan las rutinas computacionales en el tiempo.  
 Por ejemplo, un patrón de secuencia en SuperCollider que cuenta cuatro índices de manera infinita: 
+
 ```
 Pseq([1, 2, 3, 4], inf)
 ```
@@ -49,7 +54,7 @@ Implementación de rutinas y patrones a muestras de sonido.
 [Ardour](https://ardour.org/)  
 [Reaper](https://www.reaper.fm/)  
 
-## Colectividad
+## 3 Colectividad
 Tocar juntos/as. Con sincronía o reloj, sin sincronía.  
 SC: [LinkClock](https://doc.sccode.org/Classes/LinkClock.html)  
 Dejalo sonar.  
